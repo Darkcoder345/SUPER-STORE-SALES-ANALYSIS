@@ -1,5 +1,10 @@
 # SUPER-STORE-SALES-ANALYSIS
 
+
+<img width="2075" height="1200" alt="Super Store Sales DashBoard_page-0001" src="https://github.com/user-attachments/assets/b6db71ac-aa43-4648-bfe0-58ba559c8366" />
+<img width="2075" height="1200" alt="Super Store Sales DashBoard_page-0002" src="https://github.com/user-attachments/assets/10439a32-a54c-4188-9429-aeb37a7258e8" />
+
+
 ## Executive Summary
 
 This project analyzes Super Store sales data using Power BI to evaluate sales performance, profitability, customer segments, and regional trends. The dashboard reports $1.57M in sales, $175K in profit, and 3.93 average shipment days.
